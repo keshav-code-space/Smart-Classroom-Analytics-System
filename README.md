@@ -22,6 +22,14 @@ In many educational institutions, students who are struggling academically are o
 
 ---
 
+##currently working on :
+
+- for the first step i will create the data set for the predection model to analize it.
+- for the start i take the data set from kaggle for the students on the bases of there  marks, attendance, mock, assignment , etc.
+- then create the csv file since, it is easy to make and it can open in excel, google sheet etc also it is easy to load this file in python  
+
+---
+
 ## 👨‍💻 Author
 
 Keshav Soni
