@@ -22,7 +22,7 @@ In many educational institutions, students who are struggling academically are o
 
 ---
 
-##currently working on :
+## currently working on :
 
 - for the first step i will create the data set for the predection model to analize it.
 - for the start i take the data set from kaggle for the students on the bases of there  marks, attendance, mock, assignment , etc.
