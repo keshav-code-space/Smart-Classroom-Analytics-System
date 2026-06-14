@@ -34,9 +34,9 @@ In many educational institutions, students who are struggling academically are o
 
 Keshav Soni
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/keshav-code-space
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/keshav-soni-7b6744321
 
 ---
 
