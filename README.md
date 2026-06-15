@@ -36,7 +36,7 @@ Keshav Soni
 
 GitHub: https://github.com/keshav-code-space
 
-LinkedIn: https://linkedin.com/in/keshav-soni-7b6744321
+LinkedIn: https://linkedin.com/in/keshav-soni-cse/
 
 ---
 
